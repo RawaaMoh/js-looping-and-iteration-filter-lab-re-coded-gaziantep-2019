@@ -18,4 +18,3 @@ function matchName (list, name) {
     return driver.name.toLowerCase() === name.toLowerCase();
   });
 }
-
